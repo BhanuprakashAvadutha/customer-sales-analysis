@@ -4,6 +4,8 @@
 
 ## Project Overview
 
+[bhanu prakash AICTE final project week 4 pdf.pdf](https://github.com/user-attachments/files/16401021/bhanu.prakash.AICTE.final.project.week.4.pdf.pdf)
+
 This project presents a comprehensive Power BI dashboard analyzing retail sales data across various dimensions. The dashboard provides valuable insights into sales performance, profitability, shipping trends, and customer segmentation, offering a powerful tool for data-driven decision making in the retail sector.
 
 ## Key Features
