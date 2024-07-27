@@ -1,6 +1,6 @@
-# customer-sales-analysis
 
-# Retail Sales Analytics Dashboard
+
+# Retail Sales Analytics 
 
 ## Project Overview
 
