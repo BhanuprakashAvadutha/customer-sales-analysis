@@ -88,6 +88,10 @@ Reducing shipment days in New York City is a priority.
 - Identified key sales drivers, leading to a 15% increase in targeted marketing efficiency.
 - Optimized shipping strategies, resulting in a 10% reduction in delivery times for high-volume cities.
 - Developed a customer segmentation model that improved personalized product recommendations by 25%.
+- Focusing on reducing the 25% churn rate, perhaps by identifying at-risk customers early.
+- Investigating why electronic checks are so popular and if this payment method is associated with any particular customer behaviors.
+- Exploring ways to increase adoption of streaming services and online security, especially among long-term customers.
+- Developing targeted strategies for different contract types to improve retention and service adoption.
 
 ## Tools Used
 
